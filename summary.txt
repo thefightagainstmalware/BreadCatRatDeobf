@@ -1,0 +1,9 @@
+Summary for breadcatnewformat.jar
+Decompiled with CFR 0.152
+
+
+codes.biscuit.skyblockaddons.shadow.jagrosh.discordipc.IPCClient
+----------------------------
+
+lambda$startReading$0()
+  Unable to fully structure code
